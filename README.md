@@ -30,10 +30,9 @@ ecommerce-etl-pipeline/
 │
 ├── etl_pipeline.py           # Main Python ETL script for cleaning and transformation
 └── README.md                 # Project documentation
-
+```
 ## 🚀 How to Run
 1. Clone the repository:
-```
    git clone https://github.com/Hager-Abdelnasser/Ecommerce-Sales-ETL-Pipeline
    cd Ecommerce-Sales-ETL-Pipeline
 2. Install dependencies:
