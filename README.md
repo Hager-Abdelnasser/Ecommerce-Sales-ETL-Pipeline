@@ -18,6 +18,7 @@ An end-to-end Data Engineering ETL pipeline designed to ingest raw e-commerce tr
 - Database & Querying: Microsoft SQL Server (T-SQL), SSMS
 
 ## 📂 Repository Structure
+```text
 ecommerce-etl-pipeline/
 │
 ├── data/
