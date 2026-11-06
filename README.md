@@ -33,6 +33,7 @@ ecommerce-etl-pipeline/
 
 ## 🚀 How to Run
 1. Clone the repository:
+```bash
    git clone https://github.com/Hager-Abdelnasser/Ecommerce-Sales-ETL-Pipeline
    cd Ecommerce-Sales-ETL-Pipeline
 2. Install dependencies:
